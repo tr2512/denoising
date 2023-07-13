@@ -1,0 +1,10 @@
+gradio
+opencv-python
+numpy
+torch
+torchvision
+einops
+timm
+scipy
+scikit-image
+PyWavelets
